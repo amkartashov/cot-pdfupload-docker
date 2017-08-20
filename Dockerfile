@@ -15,7 +15,5 @@ RUN chmod +x /docker-entrypoint.sh
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
 
-COPY cot-pdfupload /
-
-
+COPY cot-pdfupload /cot-pdfupload
 
