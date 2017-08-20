@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # 1. go to application directory
 cd /cot-pdfupload
