@@ -14,3 +14,4 @@ popd
 # 2. Build
 
 sudo docker build -t gorilych/cot-pdfupload .
+sudo docker push gorilych/cot-pdfupload
